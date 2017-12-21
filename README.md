@@ -7,13 +7,12 @@ This is my first repo that contains actual programs, so if I'm doing something w
 
 
 Finished:
-Nothing(yet)
+Arithmetic and Geometric sequences.
 
 Todo: 
 Binary sequence with training values.
 Binary sequence without training values.
-Geometric and Arithmetic sequences
 
 
 Credits:
-Import-EthanStancliff (making the repo).
+Import-EthanStancliff (making the repo, Arithmetic and Geometric sequences.).
